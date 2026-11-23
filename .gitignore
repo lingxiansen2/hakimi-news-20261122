@@ -1,0 +1,5 @@
+frontpage.html
+__pycache__/
+*.pyc
+.env
+out/
